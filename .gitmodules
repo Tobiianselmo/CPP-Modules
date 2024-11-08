@@ -1,0 +1,12 @@
+[submodule "CPP-00"]
+	path = CPP-00
+	url = https://github.com/tobiianselmo/CPP-00.git
+[submodule "CPP-01"]
+	path = CPP-01
+	url = https://github.com/tobiianselmo/CPP-01.git
+[submodule "CPP-02"]
+	path = CPP-02
+	url = https://github.com/tobiianselmo/CPP-02.git
+[submodule "CPP-03"]
+	path = CPP-03
+	url = https://github.com/tobiianselmo/CPP-03.git
