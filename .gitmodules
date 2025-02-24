@@ -19,3 +19,12 @@
 [submodule "CPP-06"]
 	path = CPP-06
 	url = https://github.com/tobiianselmo/CPP-06.git
+[submodule "CPP-07"]
+	path = CPP-07
+	url = https://github.com/tobiianselmo/CPP-07.git
+[submodule "CPP-08"]
+	path = CPP-08
+	url = https://github.com/tobiianselmo/CPP-08.git
+[submodule "CPP-09"]
+	path = CPP-09
+	url = https://github.com/tobiianselmo/CPP-09.git
